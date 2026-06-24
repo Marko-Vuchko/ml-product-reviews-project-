@@ -61,8 +61,8 @@ Production script (`src/train_model.py`) uses Random Forest on the full dataset;
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/Marko-Vuchko/ml-product-reviews-project-.git
-cd ml-product-reviews-project-
+git clone https://github.com/Marko-Vuchko/product-review-sentiment-analysis.git
+cd product-review-sentiment-analysis
 python -m venv .venv
 
 # Windows
